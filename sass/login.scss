@@ -1,0 +1,103 @@
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; }
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:100;}
+body{ font-family:"微软雅黑";position: relative;}
+input,a{outline:none;}
+#head{
+    width:993px;
+    height:63px;
+    margin:0 auto;
+    margin-top:35px;
+}
+#shen{
+    width:993px;
+    height:485px;
+    margin: 0 auto;
+    img{margin-top:57px;float: left;}
+    .zi{
+        width:356px;
+        height:427px;
+        float:right;
+        margin-top:57px;
+        margin-right:120px;
+        form{width:381px;
+             height:316px;
+             background:#fafafa;
+             margin-top:28px;
+             padding-left:40px;
+             box-shadow:5px 5px 5px #f5f5f5;
+             a{font-size:13px;color:#999999;}
+             a:hover{text-decoration: underline;}
+             #dengl{
+                   display:inline-block;
+                 margin-top:20px;
+                 margin-left:58px;
+                 width:89px;height:37px;
+                 line-height:37px;
+                 text-align: center;
+                 font-weight: 900;
+                 border-radius: 4px;
+                 text-decoration: none;
+                 background:#da4200;
+                 color:#FFFFFF;
+             }
+             span{
+                 font-size:13px;color:#999999;
+                 display:inline-block;
+                 width:130px;
+                 margin-left:57px;
+                 margin-top:45px;
+             }
+        }
+        span{
+                 font-size:13px;color:#999999;
+                 display:inline-block;
+                 margin-top:15px;
+             }
+        
+        
+    }
+    
+    
+}
+#foot{
+    margin:0 auto;
+    width:993px;
+    height:79px;
+    font-size:12px;
+    border-top:4px solid #ce3c3b;
+    a{display: block;float: left;color:#777777;}
+        a:hover{color:#ce3c3b;text-decoration: underline;}
+        .fot1{height:30px;
+          a{margin-right:19px;margin-top:21px;}
+        }        
+        .fot2{display: flex;
+            justify-content: center;
+            height:30px;
+        }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
